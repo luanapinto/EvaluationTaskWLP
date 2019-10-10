@@ -1,0 +1,58 @@
+header{
+    margin-top: 50px;
+}
+body{
+    margin-left: 6%;
+    margin-right: 6%;
+}
+#user-input{
+    border-width: 3px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+button{
+    background-color: lightgray;
+    border-radius: 3px;
+}
+div{
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    background-color: #DDD;
+    display: flex;
+    justify-content: center;
+    border-style: inset;
+    width:fit-content;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+tr{
+    text-align: center;
+}
+tbody{
+    background-color: white;
+}
+.price{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    text-align: right; 
+}
+.name{
+    padding-left: 7px;
+    padding-right: 7px;
+    text-align: left; 
+}
+.id{
+    padding-left: 7px;
+    padding-right: 7px;
+}

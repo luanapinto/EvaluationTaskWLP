@@ -1,0 +1,157 @@
+[
+  {
+      "id" : 1,
+      "name" : "Filé de Peixe Merluza Congelado 800G",
+      "price" : 19.99
+  },
+  {
+    "id" : 2,
+    "name" : "Mini Salgados Diversos Kg",
+    "price" : 29.99
+  },
+  {
+    "id" : 3,
+    "name" : "Pão Bisnaguinha 300g Seven Boys",
+    "price" : 3.99
+  },
+  {
+    "id" : 4,
+    "name" : "Água Sanitária 2L Suprema",
+    "price" : 3.29
+  },
+  {
+    "id" : 5,
+    "name" : "Alvejante Sem Cloro Líquido Refil 500ML Vanish",
+    "price" : 7.99
+  },
+  {
+    "id" : 6,
+    "name" : "Inseticida Líquido 45 Noites Refil 35ML SBP",
+    "price" : 10.99
+  },
+  {
+    "id" : 7,
+    "name" : "Pano Microfibra Multiuso C/3 Unidades Luxcar",
+    "price" : 11.99
+  },
+  {
+    "id" : 8,
+    "name" : "Carvão Com Acendedor 2,5KG Pantaneiro",
+    "price" : 9.99
+  },
+  {
+    "id" : 9,
+    "name" : "Filé de Peito de Frango Congelado 1KG Sadia",
+    "price" : 11.98
+  },
+  {
+    "id" : 10,
+    "name" : "Açúcar Cristalçúcar 5KG União",
+    "price" : 23.9
+  },
+  {
+    "id" : 11,
+    "name" : "Arroz Tipo 1 5KG Rei do Prato",
+    "price" : 9.59
+  },
+  {
+    "id" : 12,
+    "name" : "Sal Rosa do Himalaia 500G Smart",
+    "price" : 10.99
+  },
+  {
+    "id" : 13,
+    "name" : "Feijão Carioca 1KG Broto Legal",
+    "price" : 4.59
+  },
+  {
+    "id" : 14,
+    "name" : "Teclado Gamer TC201 Unidade Multilaser",
+    "price" : 44.99
+  },
+  {
+    "id" : 15,
+    "name" : "Fralda Descartável Confort Sec Mega Pampers",
+    "price" : 39.99
+  },
+  {
+    "id" : 15,
+    "name" : "Lenço Umedecido com 48 Lenços Huggies",
+    "price" : 9.99
+  },
+  {
+    "id" : 16,
+    "name" : "Cerveja 350ML Budweiser Lata",
+    "price" : 2.79
+  },
+  {
+    "id" : 17,
+    "name" : "Cerveja Clara Extra Long Neck 210ML Coronita",
+    "price" : 2.99
+  },
+  {
+    "id" : 18,
+    "name" : "Cerveja Pack C/18 Latas (350ML cada) Brahma",
+    "price" : 35.82
+  },
+  {
+    "id" : 19,
+    "name" : "Cerveja Puro Malte 350ML Cacildis Lata",
+    "price" : 2.49
+  },
+  {
+    "id" : 20,
+    "name" : "Vodka Natural 1L Absolut",
+    "price" : 84.99
+  },
+  {
+    "id" : 21,
+    "name" : "Batata Chips 150G Tyrrells",
+    "price" : 14.99
+  },
+  {
+    "id" : 22,
+    "name" : "Bolacha Recheada Negresco 140G Nestlé",
+    "price" : 1.59
+  },
+  {
+    "id" : 23,
+    "name" : "Bala de Gelatina 100G Fini",
+    "price" : 3.99
+  },
+  {
+    "id" : 24,
+    "name" : "Bombom Favoritos 250,6G Lacta",
+    "price" : 7.78
+  },
+  {
+    "id" : 25,
+    "name" : "Batata Smiles Congelada 500G McCain",
+    "price" : 8.99
+  },
+  {
+    "id" : 26,
+    "name" : "Hambúrguer Bovino 672G Brasa Búrguers",
+    "price" : 8.99
+  },
+  {
+    "id" : 27,
+    "name" : "Sorvete Linha Tradicional 1,5L Nestlé",
+    "price" : 12.99
+  },
+  {
+    "id" : 28,
+    "name" : "Leite Condensado 395G Italac",
+    "price" : 3.19
+  },
+  {
+    "id" : 29,
+    "name" : "Areia Higiênica Pet 4KG Edukat",
+    "price" : 4.89
+  },
+  {
+    "id" : 30,
+    "name" : "Granulado Higiênico para Gatos 1,3KG Eco Cane",
+    "price" : 19.99
+  }
+]
