@@ -7,7 +7,7 @@ $(function() {
             success: function(response) {
                 var tbodyEL = $('tbody');
                 tbodyEL.html('');
-                response.products.forEach(function(product){
+                response.products.forEach(function(product){ //Putting data into HTML
                     var userInput = $('#user-input').val().toLowerCase();
                     if(product.name.toLowerCase().search(userInput) > -1){    
                         tbodyEL.append('\
