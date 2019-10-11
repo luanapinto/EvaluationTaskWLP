@@ -25,10 +25,11 @@ div{
     padding-right: 60px;
     padding-bottom: 50px;
     background-color: #DDD;
-    display: flex;
     justify-content: center;
     border-style: inset;
     width:fit-content;
+    width:-moz-fit-content;
+    width:-webkit-fit-content;
     display: flex;
     margin-left: auto;
     margin-right: auto;
